@@ -28,6 +28,11 @@ The game challenges players to dodge traps, fight intelligent enemy AI, collect 
 ### ⚔️ Combat & Movement  
 Responsive controls with dashing, jumping, and close-range attacks.
 
+Damage is divided into two types:
+
+- **Physical Damage**: Can critically strike, dealing extra damage based on critical chance and power.
+- **Elemental Damage**: Cannot critically strike, but applies elemental effects such as burning, freezing, or shocking enemies.
+
 ![image](https://github.com/user-attachments/assets/865e1e0d-c017-4339-9314-f80de750fe27)
 ![image](https://github.com/user-attachments/assets/55854416-58c0-41ea-a9db-7c47c82461a5)
 
