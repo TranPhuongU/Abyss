@@ -9,7 +9,7 @@ The game challenges players to dodge traps, fight intelligent enemy AI, collect 
 
 ## 🎮 Demo
 
-🔗 [Play Demo](https://your-demo-link.com)
+🔗 [Abyss demo](https://www.youtube.com/watch?v=y_-wRL4_s0c)
 
 ---
 
@@ -106,8 +106,8 @@ Future updates may include expanded story content and additional maps.
 
 ## 📫 Contact
 
-- GitHub: [your-username](https://github.com/your-username)  
-- Email: your.email@example.com
+- GitHub: [TranPhuongU](https://github.com/TranPhuongU)  
+- Email: fuong9103@gmail.com
 
 ---
 
